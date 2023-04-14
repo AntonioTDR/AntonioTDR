@@ -8,11 +8,6 @@
 - Estou cursando Análise e Desenvolvimento de Sistemas - FACENS;
 - Atualmente estou estudando Java, Python, SQL e Redes de computadores.
 
-### 👉Stats:
-
-![AntonioTDR GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioTDR&theme=blue-green)
-![AntonioTDR GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioTDR&theme=blue-green)
-
 ### 💻 Tecnologias que uso no meu dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
